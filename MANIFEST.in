@@ -1,0 +1,4 @@
+include README.md
+recursive-include octoprint_email_notifier/templates *
+recursive-include octoprint_email_notifier/translations *
+recursive-include octoprint_email_notifier/static *
